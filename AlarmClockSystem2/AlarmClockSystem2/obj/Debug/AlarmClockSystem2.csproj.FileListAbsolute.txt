@@ -1,0 +1,8 @@
+C:\Users\琚\Desktop\AlarmClockSystem2\AlarmClockSystem2\AlarmClockSystem2\bin\Debug\AlarmClockSystem2.exe
+C:\Users\琚\Desktop\AlarmClockSystem2\AlarmClockSystem2\AlarmClockSystem2\bin\Debug\AlarmClockSystem2.pdb
+C:\Users\琚\Desktop\AlarmClockSystem2\AlarmClockSystem2\AlarmClockSystem2\obj\Debug\AlarmClockSystem2.csprojResolveAssemblyReference.cache
+C:\Users\琚\Desktop\AlarmClockSystem2\AlarmClockSystem2\AlarmClockSystem2\obj\Debug\AlarmClockSystem2.frmMain.resources
+C:\Users\琚\Desktop\AlarmClockSystem2\AlarmClockSystem2\AlarmClockSystem2\obj\Debug\AlarmClockSystem2.Properties.Resources.resources
+C:\Users\琚\Desktop\AlarmClockSystem2\AlarmClockSystem2\AlarmClockSystem2\obj\Debug\AlarmClockSystem2.csproj.GenerateResource.Cache
+C:\Users\琚\Desktop\AlarmClockSystem2\AlarmClockSystem2\AlarmClockSystem2\obj\Debug\AlarmClockSystem2.exe
+C:\Users\琚\Desktop\AlarmClockSystem2\AlarmClockSystem2\AlarmClockSystem2\obj\Debug\AlarmClockSystem2.pdb
